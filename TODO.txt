@@ -1,6 +1,0 @@
-TODO temporary list
-
-- Add Makefile for quick build.
-- Add hardware schematics and PCB layout for a quick build.
-- Add Quick Start Guide to docs.
-- Port hardware project to KiCad.

@@ -1,0 +1,24 @@
+CORRECIONES VERSIÓN 0.2
+
+J6 VA CON PISTA DE CONEXION POR ABAJO NO EN EL TOP
+
+NO USAR C8 COMO VIA, USAR R5 PARA PASAR LA PISTA HACIA ABAJO
+
+SI A C4 LO DEJAMOS COMO VIA ESTAMOS AL HORNO PARA SOLDAR LA 
+VIA QUE VA CERCSNO A C4 PORQUE OCUPA EL LUGAR DE MONTAJE
+
+A C5 NO LO PODEMOS DEJAR MUY LAYED FLAT PORQUE NO TIENE ESPACIO
+NO USARLO COMO VIA.
+
+Cablear una tira de pines para un led de gabinete.
+
+VREF tiene q ir a 2.5v poner divisor que divida junto con R3 a 2.5v (en paralelo a C9)
+
+
+CAMBIAR C9 de 220uf por dos capas: uno de 10uf de tantalio y uno de 0.1 uf.
+
+
+max5541 necesita un buffer, usar el que tenemos al pedo. 
+	Conectar la salida del DAC a la entrada del buffer, realimentado como está, y la salida del buffer a la resistencia R4.
+	
+Verificar respuesta en frecuencia del circuito de salida los tonos graves poseen menos db que los agudos

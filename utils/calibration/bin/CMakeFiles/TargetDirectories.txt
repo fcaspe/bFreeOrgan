@@ -1,0 +1,3 @@
+/home/franco/uni/Digitales 3/PROY FINAL/calibration/bin/CMakeFiles/rebuild_cache.dir
+/home/franco/uni/Digitales 3/PROY FINAL/calibration/bin/CMakeFiles/edit_cache.dir
+/home/franco/uni/Digitales 3/PROY FINAL/calibration/bin/CMakeFiles/calibrate.dir

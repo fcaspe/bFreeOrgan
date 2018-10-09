@@ -1,0 +1,32 @@
+Reference, Value, Footprint, Datasheet,,,,
+JDISCOVERY1,STM32F4_Discovery_Header,w_conn_misc:stm32f4_discovery_header,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+J1,Screw_Terminal_1x02,Connectors:bornier2,,,,,
+J3,Screw_Terminal_1x02,Connectors:bornier2,,,R2,220,Resistors_THT:Resistor_Horizontal_RM10mm
+J2,5V Auxiliar,Connectors:bornier2,,,R1,270,Resistors_THT:Resistor_Horizontal_RM10mm
+J5,Screw_Terminal_1x02,Connectors:bornier2,,,R3,220,Resistors_THT:Resistor_Horizontal_RM10mm
+J6,Drawbar Board +3V,Connectors:bornier2,,,R4,1.8k,Resistors_THT:Resistor_Horizontal_RM10mm
+,,,,,R5,8.2k,Resistors_THT:Resistor_Horizontal_RM10mm
+,,,,,R6,68,Resistors_THT:Resistor_Horizontal_RM10mm
+,,,,,R7,270,Resistors_THT:Resistor_Horizontal_RM10mm
+,,,,,R8,270,Resistors_THT:Resistor_Horizontal_RM10mm
+,,,,,,,
+U1,7805,TO_SOT_Packages_THT:TO-220_Neutral123_Vertical,,,,,
+U3,MC33202,SMD_Packages:SOIC-8-N,,,,,
+U2,6N137,Housings_DIP:DIP-8_W7.62mm,,,C1,330nF,Capacitors_THT:C_Disc_D3_P2.5
+U4,MAX5541,SMD_Packages:SOIC-8-N,,,C2,220uF,Capacitors_THT:C_Radial_D8_L21_P3.8
+,,,,,C6,3.3nF,Capacitors_THT:C_Disc_D3_P2.5
+,,,,,C8,1nF,Capacitors_THT:C_Disc_D3_P2.5
+,,,,,C3,100nF,Capacitors_THT:C_Disc_D3_P2.5
+,,,,,C5,100nF,Capacitors_THT:C_Disc_D3_P2.5
+RV1,10k,Connectors:bornier3,,,C7,22uF,Capacitors_THT:C_Radial_D5_L11_P2.5
+,,,,,C4,100nF,Capacitors_THT:C_Disc_D3_P2.5
+,,,,,C9,220uF,Capacitors_THT:C_Radial_D8_L21_P3.8
+,,,,,,,
+,,,,,P3,CONN_01X05,Pin_Headers:Pin_Header_Straight_1x05
+,,,,,P2,CONN_01X05,Pin_Headers:Pin_Header_Straight_1x05
+,,,,,P1,CONN_01X04,Pin_Headers:Pin_Header_Straight_1x04
+D1,1N4007,Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10,,,,,
+D2,1N4148,Diodes_THT:Diode_DO-35_SOD27_Horizontal_RM10,,,,,
