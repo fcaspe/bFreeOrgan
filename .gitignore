@@ -1,0 +1,10 @@
+# Compiled Source #
+###################
+
+*.elf
+*.o
+*.bin
+*.map
+/utils/calibration/bin/
+
+/Debug/
