@@ -26,7 +26,7 @@ Front Prototype Case
 ![picture](docs/img/4front.jpg)
 
 Rear Prototype Case
-![picture](docs/5back.jpg)
+![picture](docs/img/5back.jpg)
 
 I also will be posting some videos on youtube... links will be here soon!
 
