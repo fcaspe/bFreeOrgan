@@ -10,7 +10,7 @@ This project started in 2017, coded in C with STM32 Standard Peripheral Driver, 
 Last August (2018), the project received a major bump up, on which PCB and Code were updated to work with an external 16 bit DAC,
 isolated from the microcontroller internal noise/interference.
 
-This repo currently contains the source and System Workbench project, KiCad project and some calibration utils.
+This repo currently contains the source and System Workbench project, KiCad project for the Main PCB and some calibration utils.
 The Drawbar Board has not been ported to KiCad. Will be available soon!
 3D Print Case is still pending! But, with a little creativity this project can be built! (see images)
 
@@ -26,7 +26,7 @@ Front Prototype Case
 ![picture](docs/img/4front.jpg)
 
 Rear Prototype Case
-![picture](docs/5rear.jpg)
+![picture](docs/5back.jpg)
 
 I also will be posting some videos on youtube... links will be here soon!
 
