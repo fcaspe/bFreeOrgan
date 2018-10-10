@@ -20,14 +20,14 @@ Last Version PCB!
 ![picture](docs/img/1board.jpg)
 
 bFreeOrgan PCB with Discovery board mounted on.
-![picture](docs/img/abc.png)
+![picture](docs/img/2board.jpg)
 
 Front Prototype Case
-![picture](docs/img/abc.png)
+![picture](docs/img/4front.jpg)
 
 Rear Prototype Case
-![picture](docs/abc.png)
+![picture](docs/5rear.jpg)
 
 I also will be posting some videos on youtube... links will be here soon!
 
-![picture](docs/img/abc.png)
+![picture](docs/img/3test.jpg)
