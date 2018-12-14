@@ -16,8 +16,7 @@ The Drawbar Board has not been ported to KiCad. Will be available soon!
 
 ### See it working!
 
-[a link](https://www.youtube.com/watch?v=Aql0KdO9ymM&t=1s)
-
+[bFreeOrgan Prototype No.1](https://www.youtube.com/watch?v=Aql0KdO9ymM&t=1s)
 ### Some Images
 
 Last Version PCB!
