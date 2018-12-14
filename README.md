@@ -14,6 +14,10 @@ This repo currently contains the source and System Workbench project, KiCad proj
 The Drawbar Board has not been ported to KiCad. Will be available soon!
 3D Print Case is still pending! But, with a little creativity this project can be built! (see images)
 
+### See it working!
+
+[a link](https://www.youtube.com/watch?v=Aql0KdO9ymM&t=1s)
+
 ### Some Images
 
 Last Version PCB!
