@@ -3,16 +3,26 @@
 **by Franco Caspe**
 
 bFreeOrgan is an open source plattform for Additive Synthesis based on the well-regarded and low-cost Cortex M4 Microcontroller.
-As of today, the plattform is used to implement a Drawbar Organ Synthesizerthat currently works with the STM32F407 Discovery board.
-This project started in 2017, coded in C with STM32 Standard Peripheral Driver, using System Workbench for STM32 as IDE.
+As of today, the plattform is used to implement a Synchronous Drawbar Organ Synthesizer that works with the STM32F407 Discovery board.
+This project started in 2017, coded in C with ST Microelectronics Standard Peripheral Driver.
 
 ### Project state
-Last August (2018), the project received a major bump up, on which PCB and Code were updated to work with an external 16 bit DAC,
-isolated from the microcontroller internal noise/interference.
+This project is now IDE agnostic! Is built now with GNU make and arm gcc toolset.
+[ARM GCC TOOLSET](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
+
+For Flashing the discovery, the makefile uses texane/stlink tool. The version is currently working for me is 1.3.0
+[Texane's stlink utility](https://github.com/texane/stlink)
 
 This repo currently contains the source and System Workbench project, KiCad project for the Main PCB and some calibration utils.
-The Drawbar Board has not been ported to KiCad. Will be available soon!
+You can fancy your own drawbar controller (SEE PDF). 
 3D Print Case is still pending! But, with a little creativity this project can be built! (see images)
+
+### Building
+Just make sure the arm-gcc toolset path is set in the PATH bash's enviroment variable when you run make.
+
+1. Run: make
+2. Connect the STM32F4 Discovery Board to the PC.
+3. Run: make flash
 
 ### See it working!
 
@@ -30,7 +40,5 @@ Front Prototype Case
 
 Rear Prototype Case
 ![picture](docs/img/5back.jpg)
-
-I also will be posting some videos on youtube... links will be here soon!
 
 ![picture](docs/img/3test.jpg)
