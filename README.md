@@ -11,7 +11,7 @@ This project is now IDE agnostic! Is built now with GNU make and arm gcc toolset
 
 [ARM GCC Toolset website](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
 
-For Flashing the discovery, the makefile uses texane/stlink tool. The version is currently working for me is 1.3.0.
+For Flashing the discovery, the makefile uses texane/stlink tool. The latest version that is currently working fine for the STM32F4 Discovery board is 1.3.0.
 
 [Texane's stlink utility](https://github.com/texane/stlink)
 
