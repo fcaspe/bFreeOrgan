@@ -8,9 +8,11 @@ This project started in 2017, coded in C with ST Microelectronics Standard Perip
 
 ### Project state
 This project is now IDE agnostic! Is built now with GNU make and arm gcc toolset.
-[ARM GCC TOOLSET](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
 
-For Flashing the discovery, the makefile uses texane/stlink tool. The version is currently working for me is 1.3.0
+[ARM GCC Toolset website](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
+
+For Flashing the discovery, the makefile uses texane/stlink tool. The version is currently working for me is 1.3.0.
+
 [Texane's stlink utility](https://github.com/texane/stlink)
 
 This repo currently contains the source and System Workbench project, KiCad project for the Main PCB and some calibration utils.
